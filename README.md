@@ -34,7 +34,7 @@ If you’re looking for a reliable developer or want to collaborate on a project
 ---
 
 ## 🌍 Languages I Speak:
-![Pashto](https://img.shields.io/badge/Pashto-green?style=for-the-badge)
+![Pashtoo](https://img.shields.io/badge/Pashto-green?style=for-the-badge)
 ![Urdu](https://img.shields.io/badge/Urdu-orange?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-blue?style=for-the-badge)
 ![Farsi](https://img.shields.io/badge/Farsi-purple?style=for-the-badge)
